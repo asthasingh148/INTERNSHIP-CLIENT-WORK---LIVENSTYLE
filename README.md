@@ -31,17 +31,4 @@ It combines:
 - Modern luxury design  
 - Functional lifestyle elements  
 
-## 🛠️ Tech Stack (Example – update if needed)
 
-- Frontend: HTML, CSS, JavaScript / React
-- Styling: Tailwind CSS / CSS Modules
-- Backend: (if any, mention here)
-- Version Control: Git & GitHub
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm start
